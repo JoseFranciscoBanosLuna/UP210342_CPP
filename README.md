@@ -8,7 +8,7 @@ UP210342
 ___
 #  **Programación** 
 
-</center>
+
 
 
 <table class="tg">
@@ -66,7 +66,7 @@ ___
 </table>
 
 
-<center>
+
 
 > **COMANDOS GITHUB:**
 

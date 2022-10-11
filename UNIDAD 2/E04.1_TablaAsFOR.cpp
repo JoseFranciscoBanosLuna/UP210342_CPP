@@ -9,7 +9,7 @@ int main()
     cout <<"\n";
     cin >> n;
     /*ciclo for*/
-    for (int i = 1; i < count; i++)
+    for (int i = 1; i < 11; i++)
     {
         mult = n*i;
         cout << n << "*" << i << "=" << mult << "\n";
