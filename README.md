@@ -8,7 +8,59 @@ UP210342
 ___
 #  **Programación** 
 
-
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c3ow">Unit</th>
+    <th class="tg-c3ow">Name</th>
+    <th class="tg-c3ow">Evidence</th>
+    <th class="tg-c3ow">Alloted Percentage</th>
+    <th class="tg-c3ow">Total</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow">U1</td>
+    <td class="tg-c3ow">Programming introduction</td>
+    <td class="tg-c3ow">U1EP1</td>
+    <td class="tg-c3ow">100%</td>
+    <td class="tg-c3ow">10%</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" rowspan="2">U2</td>
+    <td class="tg-c3ow" rowspan="2">Control structures and cycles</td>
+    <td class="tg-c3ow">U2EC1</td>
+    <td class="tg-c3ow">50%</td>
+    <td class="tg-c3ow" rowspan="2">30%</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">U2EP1</td>
+    <td class="tg-c3ow">50%</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" rowspan="2">U3</td>
+    <td class="tg-c3ow" rowspan="2">Functions</td>
+    <td class="tg-c3ow">U3EC1</td>
+    <td class="tg-c3ow">50%</td>
+    <td class="tg-c3ow" rowspan="2">30%</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">U3EP1</td>
+    <td class="tg-c3ow">50%</td>
+  </tr>
+   <tr>
+    <td class="tg-c3ow" rowspan="2">U4</td>
+    <td class="tg-c3ow" rowspan="2"> Files and arrays</td>
+    <td class="tg-c3ow">U4EC1</td>
+    <td class="tg-c3ow">50%</td>
+    <td class="tg-c3ow" rowspan="2">30%</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">U4EP1</td>
+    <td class="tg-c3ow">50%</td>
+  </tr>
+</tbody>
+</table>
 
 
 > **COMANDOS GITHUB:**
@@ -33,90 +85,4 @@ ___
 ___
 </div>
 
-
-## ***UNIDAD 1:***  Programming introduction
-<center>
-
-> ### 1. Ciclos.cpp:
-</center>
-
-___
-```
-#include <iostream>
-using namespace std;
-
-int main()
-{
-    int n = 10;
-    int suma = 0;
-    int par = 0;
-    int impar = 0;
-    int total = impar + par; 
-    for (int i = 1; i <= n; i++)
-    {
-        printf(" Contador %d \n", i);
-        printf("\n"); 
-        suma = suma + i;
-        if (i % 2 == 0)
-        {
-            par += i;
-        }
-        else
-        {
-            impar += i;
-        }
-
-    }
-    total = impar + par; 
-    printf(" La suma de los impares es %d \n", impar);
-    printf("\n");
-    printf(" La suma de los pares es %d \n", par);
-    printf("\n");
-    printf(" La suma total es %d \n", total);
-    printf("\n");
-    return 0;
-}
-
-```
----
-
-<center>
-
-> ### 2. Hola Mundo.cpp: 
-
-</center>
-
- ___
- ```
-#include <iostream>
-
-using namespace std;  
-
-int main(){
-    cout<<"HolA Mundo"; 
-    return 0;
-}
-
-```
----
-
-<center>
-
-> ### 3. Parimpar.cpp: 
-
-</center>
-
-___
-```
-#include<iostream>
-using namespace std;
-
-int main()
-{
-    cout <<"Par o Impar" <<endl<<"\n" <<endl;
-    return 0;
-}
-
-```
-___
 
