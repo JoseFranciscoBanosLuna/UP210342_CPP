@@ -14,14 +14,16 @@ int main ()
     cout<<endl;
     for (int i = 8; i >= 1; i--)
     {
-        if (n % 2 > 0){
+        if (n % 2 > 0)
+        {
             bin=bin + '1';
             n = n/2;
             floor(n);
-        } else { 
-                bin = bin + '0';
-                n=n/2;
-                floor(n);
+        } else 
+        { 
+            bin = bin + '0';
+            n=n/2;
+            floor(n);
         }
     }
     cout <<endl<< s << " en binario es: ";
