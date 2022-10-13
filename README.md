@@ -2,11 +2,11 @@
 ![Alt PROGRA](IMG/PROGRAMACION.png)
 
 
-<center>
+<div align="center">
 
 ![typing](/IMG/cat.gif "CAT")
 
-<div align="center">
+</div>
 
 <center>
 
