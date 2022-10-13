@@ -1,14 +1,10 @@
+
+![Alt PROGRA](IMG/PROGRAMACION.png)
+
+
 <center>
-UNIVERSIDAD POLITÉCNICA DE AGUASCALIENTES  
 
-  José Francisco Baños Luna  
-UP210342    
-
-
-___
-#  **Programación** 
-
-
+![typing](/IMG/cat.gif "CAT")
 
 
 <table class="tg">
