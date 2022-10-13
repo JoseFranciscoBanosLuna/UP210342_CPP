@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![typing](/IMG/cat.gif "CAT")
+<img src= "IMG/cat.gif" width="1000"  alt="">
 
 </div>
 
