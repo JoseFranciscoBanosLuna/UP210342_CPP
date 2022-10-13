@@ -6,6 +6,9 @@
 
 ![typing](/IMG/cat.gif "CAT")
 
+<div align="center">
+
+<center>
 
 <table class="tg">
 <thead>
@@ -70,6 +73,7 @@
 * Git add .
 * Git commit -m " "
 * Git push
+
 </center>
 
 ![Alt hackerman](IMG/toño.jpg)
