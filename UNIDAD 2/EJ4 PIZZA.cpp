@@ -2,8 +2,7 @@
 using namespace std; 
 
 int main()
-{
-    char tipo; 
+{ 
     string ingr;
     string sabor = "Mozzarela, Tomate y "; 
     string extr; 
