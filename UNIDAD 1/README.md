@@ -1,7 +1,117 @@
-## ***UNIDAD 1:***  Programming introduction
+## ***UNIDAD 1:*** Programming introduction
+
+
 <center>
 
-> ### 1. Ciclos.cpp:
+> ### 1. Hola Mundo.cpp: 
+
+</center>
+
+ ___
+ ```
+#include <iostream>
+
+using namespace std;  
+
+int main(){
+    cout<<"HolA Mundo"; 
+    return 0;
+}
+
+```
+---
+
+<center>
+
+ *RESULTADO:*
+---
+
+![Alt HOLAMUNDO](IMG/../../IMG/HOLAMUNDO.png)
+
+---
+
+</center>
+
+<center>
+
+> ### 2. Parimpar.cpp: 
+
+</center>
+
+___
+```
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    cout <<"Par o Impar" <<endl<<"\n" <<endl;
+    return 0;
+}
+
+```
+___
+
+<center>
+
+<center>
+
+ *RESULTADO:*
+---
+
+![Alt PARIMPAR](IMG/../../IMG/PARIMPAR.png)
+
+---
+
+</center>
+
+> ### 3. Tipos de datos.cpp: 
+
+</center>
+
+
+___
+```
+#include <iostream> 
+#include<stdio.h>
+
+using namespace std;
+
+int main()
+{
+    int entero= 3141615033;
+    float flotante= 15.1919; 
+    double grande= 1029384756;
+    char caracter= '|'; 
+
+    cout << "Este programa muestra los tipos de datos. \n"; 
+    cout << "El numero entero es: " <<entero << endl;
+    cout << "El tamaño del entero es: " <<sizeof(entero) <<"bytes" << endl; 
+/*
+    cout << "El numero flotante es: " <<flotante <<endl;
+*/
+getchar();
+return 0; 
+}
+
+```
+___
+
+<center>
+
+<center>
+
+ *RESULTADO:*
+---
+
+![Alt TIPOSDATOS](IMG/../../IMG/TIPOSDATOS.png)
+
+---
+
+</center>
+
+> ### 4. Ciclos.cpp:
+> 
 </center>
 
 ___
@@ -46,83 +156,12 @@ int main()
 
 <center>
 
-> ### 2. Hola Mundo.cpp: 
-
-</center>
-
- ___
- ```
-#include <iostream>
-
-using namespace std;  
-
-int main(){
-    cout<<"HolA Mundo"; 
-    return 0;
-}
-
-```
+ *RESULTADO:*
 ---
 
-<center>
+![Alt CICLOS](IMG/../../IMG/CICLOS.png)
 
-> ### 3. Parimpar.cpp: 
-
-</center>
-
-___
-```
-#include<iostream>
-using namespace std;
-
-int main()
-{
-    cout <<"Par o Impar" <<endl<<"\n" <<endl;
-    return 0;
-}
-
-```
-___
-
-<center>
-
-
-> ### 4. Tipos de datos.cpp: 
-
-</center>
-
-
-___
-```
-#include <iostream> 
-#include<stdio.h>
-
-using namespace std;
-
-int main()
-{
-    int entero= 3141615033;
-    float flotante= 15.1919; 
-    double grande= 1029384756;
-    char caracter= '|'; 
-
-    cout << "Este programa muestra los tipos de datos. \n"; 
-    cout << "El numero entero es: " <<entero << endl;
-    cout << "El tamaño del entero es: " <<sizeof(entero) <<"bytes" << endl; 
-/*
-    cout << "El numero flotante es: " <<flotante <<endl;
-*/
-getchar();
-return 0; 
-}
-
-```
-___
-
-
-
-<center>
-
+---
 > ### 5. EDADES.cpp: 
 
 </center>
@@ -173,3 +212,12 @@ int main()
 
 ```
 ___
+
+<center>
+
+ *RESULTADO:*
+---
+
+![Alt EDADES](IMG/../../IMG/EDADES.png)
+
+---
