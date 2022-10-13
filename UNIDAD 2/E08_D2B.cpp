@@ -7,7 +7,7 @@ int main ()
     int n; 
     int s;
     char pr;
-    string bin, resp; 
+    string bin; 
     cout<<"Dame un número en decimal para convertirlo en binario"<<endl;
     cin >> n; 
     s = n;
