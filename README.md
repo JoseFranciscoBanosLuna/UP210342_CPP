@@ -10,6 +10,8 @@
 
 <center>
 
+<div align="center">
+
 <table class="tg">
 <thead>
   <tr>
@@ -66,13 +68,14 @@
 
 
 
-
 > **COMANDOS GITHUB:**
 
 * Git status
 * Git add .
 * Git commit -m " "
 * Git push
+
+</div>
 
 </center>
 
