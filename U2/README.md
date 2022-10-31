@@ -325,7 +325,7 @@ int main()
 ---
 
 
-> ### 6. D2B: 
+> ### 7. D2B: 
 > A program that asks the user for a number in decimal, and converts it to binary.
 
 </center>
