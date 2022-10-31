@@ -16,20 +16,16 @@ int main ()
     {
         if (n % 2 > 0)
         {
-            bin=bin + '1';
+            bin= '1' + bin;
             n = n/2;
             floor(n);
         } else 
         { 
-            bin = bin + '0';
+            bin = '0' + bin; 
             n=n/2;
             floor(n);
         }
     }
-    cout <<endl<< s << " en binario es: ";
-    for (int i = 7; i >=0; i--)
-    {
-        cout <<bin[i]<<" ";
-    }
+    cout <<endl<< s << " en binario es: "<< bin <<endl; 
 return 0;
 }
