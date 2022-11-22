@@ -53,7 +53,7 @@ int main()
 ---
 
 
-![BISECCION](/U3\IMGU3\BIsec.png)
+![BISECCION](/U3/IMGU3/BIsec.png)
 
 ---
 > ### 2. BISIESTO: 
@@ -193,7 +193,7 @@ int main()
  *RESULT:*
 ---
 
-![DE](/U3\IMGU3\DE.png)
+![DE](/U3/IMGU3/DE.png)
 
 ---
 
@@ -274,7 +274,7 @@ int main()
  *RESULT:*
 ---
 
-![DESGLOSE](/U3\IMGU3\DESGLOSE.png)
+![DESGLOSE](/U3/IMGU3/DESGLOSE.png)
 
 ---
 
