@@ -1,22 +1,25 @@
-#include<iostream>
-#include<cmath>
-#include "Libro.h"
+#include <iostream>
+#include <cmath>
 using namespace std;
 
-bool esBisiesto(int year)
+double G2R(double a)
 {
-    bool r = true; 
-    r =  year%400==0 || (year%4==0 && year%100!=0);
-    return  r;
+    double r;
+    r = a * M_PI / 180;
+
+    return r;
 }
 
-int main ()
+double seno(double a)
+{
+    return sin(G2R(a));
+}
+
+int main()
 {
     double a = 45;
     cout << endl;
     cout << seno(a) << endl;
-    cout << sum(5,7) << endl;
-    cout << esBisiesto(2024) <<endl;
 
     cout << ". . . Done";
     return 0;
