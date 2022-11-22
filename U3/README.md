@@ -52,9 +52,8 @@ int main()
  *RESULT:*
 ---
 
-<img src= "C:\Users\jfbl2\Documents\UP210342_CPP\IMG\BIsec.png" alt="">
 
-
+![BISECCION](/U3\IMGU3\BIsec.png)
 
 ---
 > ### 2. BISIESTO: 
@@ -89,7 +88,7 @@ int main ()
 ---
 
 
-![Alt biseccion](C:\Users\jfbl2\Documents\UP210342_CPP\IMG\BIsec.png)
+![BISIESTO](/U3\IMGU3\Bisiesto.png)
 
 
 ---
@@ -136,7 +135,7 @@ int main()
  *RESULT:*
 ---
 
-![Alt biseccion](C:\Users\jfbl2\Documents\UP210342_CPP\IMG\BIsec.png)
+![COS](/U3\IMGU3\Cos.png)
 
 ---
 
@@ -194,7 +193,7 @@ int main()
  *RESULT:*
 ---
 
-![Alt biseccion](C:\Users\jfbl2\Documents\UP210342_CPP\IMG\BIsec.png)
+![DE](/U3\IMGU3\DE.png)
 
 ---
 
@@ -275,7 +274,7 @@ int main()
  *RESULT:*
 ---
 
-![Alt biseccion](C:\Users\jfbl2\Documents\UP210342_CPP\IMG\BIsec.png)
+![DESGLOSE](/U3\IMGU3\DESGLOSE.png)
 
 ---
 
@@ -361,7 +360,7 @@ int main(){
  *RESULT:*
 ---
 
-![Alt biseccion](C:\Users\jfbl2\Documents\UP210342_CPP\IMG\BIsec.png)
+![A2R](/U3\IMGU3\A2R.png)
 
 ---
 
@@ -407,7 +406,7 @@ int main()
  *RESULT:*
 ---
 
-![Alt biseccion](C:\Users\jfbl2\Documents\UP210342_CPP\IMG\BIsec.png)
+![RFC](/U3\IMGU3\RFC.png)
 
 ---
 
@@ -456,7 +455,7 @@ int main()
  *RESULT:*
 ---
 
-![Alt biseccion](C:\Users\jfbl2\Documents\UP210342_CPP\IMG\BIsec.png)
+![VECTOR](/U3\IMGU3\VECTOR.png)
 
 > ### 9. FuncionRecursiva: 
 > A program that gives the factorial of x number using a recursive function (that calls itself).
@@ -493,6 +492,6 @@ int main()
  *RESULT:*
 ---
 
-![Alt biseccion](C:\Users\jfbl2\Documents\UP210342_CPP\IMG\BIsec.png)
+![RECUR](/U3\IMGU3\RECURSIVIDAD.png)
 
 ---
