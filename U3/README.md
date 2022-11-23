@@ -88,7 +88,7 @@ int main ()
 ---
 
 
-![BISIESTO](/U3\IMGU3\Bisiesto.png)
+![BISIESTO](/U3/IMGU3/Bisiesto.png)
 
 
 ---
@@ -135,7 +135,7 @@ int main()
  *RESULT:*
 ---
 
-![COS](/U3\IMGU3\Cos.png)
+![COS](/U3/IMGU3/Cos.png)
 
 ---
 
@@ -360,7 +360,7 @@ int main(){
  *RESULT:*
 ---
 
-![A2R](/U3\IMGU3\A2R.png)
+![A2R](/U3/IMGU3/A2R.png)
 
 ---
 
@@ -406,7 +406,7 @@ int main()
  *RESULT:*
 ---
 
-![RFC](/U3\IMGU3\RFC.png)
+![RFC](/U3/IMGU3/RFC.png)
 
 ---
 
@@ -455,7 +455,7 @@ int main()
  *RESULT:*
 ---
 
-![VECTOR](/U3\IMGU3\VECTOR.png)
+![VECTOR](/U3/IMGU3/VECTOR.png)
 
 > ### 9. FuncionRecursiva: 
 > A program that gives the factorial of x number using a recursive function (that calls itself).
@@ -492,6 +492,6 @@ int main()
  *RESULT:*
 ---
 
-![RECUR](/U3\IMGU3\RECURSIVIDAD.png)
+![RECUR](/U3/IMGU3/RECURSIVIDAD.png)
 
 ---
